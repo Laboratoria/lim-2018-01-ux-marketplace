@@ -267,15 +267,22 @@ herramienta adicional como Marvel o Invision. Recuerda que el diseño que
 trabajes debe seguir los fundamentos de visual design, como: contraste,
 alineación, jerarquía, entre otros.
 
+### 4) HTML, CSS y JS
+Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **dos vistas como mínimo** (aparte del login)
+utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
+Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
+mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+
+
 ## Hacker edition
 
 - En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
 propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
+
+- Desarrolla **todo el flujo de tu propuesta**
 utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+
 - Escribe un post en Medium contando tu proceso de investigación
 
 ## Evaluación
