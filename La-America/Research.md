@@ -29,7 +29,34 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 ## 5. Proceso de research
 ### 5.1. Objetivos del negocio
 ### 5.2. Benchmarking
+
+[benchmark](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
+
 ### 5.3. Entrevista con el cliente (conclusiones + link)
+####Guía de entrevista - La América H&C**
+
+**Objetivos:**
+* Obtener información sobre la empresa en sí y sus productos de forma más detallada.
+* Conocer el público objetivo del cliente.
+* Conocer el proceso de venta online del cliente.
+* Conocer los pain-points del cliente en el proceso de venta online de sus productos.
+
+**Inicio:**
+Buenas Tardes srta. …………………, somos ………………………… y ………………….. . estudiantes de Laboratoria.
+Muchas gracias por el tiempo que nos brindará durante la entrevista.
+
+**Lista de preguntas:**
+* ¿A qué se debe la elección del rubro?
+* ¿Cómo ve su empresa de aquí a 3 años?
+* ¿Qué imagen desea proyectar en el corto plazo?
+* ¿Cuál considera que es su público objetivo?
+* ¿Cómo logran fidelizar a sus clientes?
+* ¿Qué productos son los que suelen vender más en tienda? ¿Y de manera online?
+* ¿Por qué decidió realizar el servicio de delivery? ¿Por qué en bicicleta?
+* ¿Cuál es su zona de reparto? ¿Por qué seleccionaron esa zona?
+* ¿Cómo es su proceso de venta online? ¿Me puedes contar sobre la última venta online que recuerdes? (Facebook, Whatsapp, medios de pago, tiempo de preparación, comprobantes)
+* ¿Alguna vez ha tenido algún inconveniente en la venta online?
+
 ### 5.4. Entrevista con usuarios (conclusiones + link)
 
 ## 6. Definición del público objetivo
