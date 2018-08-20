@@ -17,7 +17,7 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 ## 4. Planificación de actividades
 
 |Actividad|Sustentación|
-|:---|:---:|
+|:---|:---|
 |Entrevistas con cliente| Es necesario para poder hacer el match entre lo que el cliente desea y lo que necesita el usuario. Asimismo, para conocer sus motivaciones, frustraciones y necesidades.|
 |Benchmark| Es útil para conocer buenas prácticas y errores en páginas de referencia, y así definir mejor el contenido de lo que vamos a proponer. También nos servirá para conocer empresas competidoras del rubro. |
 |Entrevistas con usuarios| Es útil para conocer las experiencias previas de los usuarios y sus necesidades. Ayudarán a identificar sus pains principales y posibles gains de la propuesta. |
