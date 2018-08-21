@@ -1,5 +1,12 @@
 # Propuesta de plataforma en línea - La América H&C
 
+Hoy en día, el 78% de peruanos opta por alternativas orgánicas para su alimentación. Esta cifra, producto de un estudio de la consultora Nielsen (http://www.nielsen.com/pe/es/insights/reports/2017/La-revolucion-de-los-alimentos-en-America-Latina-la-salud-es-una-prioridad-para-el-consumidor.html), refleja uno de los niveles más altos de consumo en la región latinoamericana.
+
+A consecuencia de ello, se produce el nacimiento de un nuevo nicho de mercado en el Perú que va creciendo con rapidez en los últimos años: los restaurantes de comida saludable, a lo cual algunos especialistas han denominado “el segundo boom de la gastronomía peruana”, en donde el sabor y la salud caminan de la mano en búsqueda de rentabilidad.
+
+En Lima, el mercado de restaurantes de comida saludable se centra en distritos como Barranco, Miraflores o San Isidro y sus productos suelen costar un 20% más de lo que cuesta un platillo en un restaurante convencional o de comida rápida. Sin embargo, para expandir el consumo y captar nuevos clientes, aparecen alternativas en distritos aledaños.
+
+
 ## 1. Introducción
 Nos contactó la empresa La América H&C para asesorarlos en la creación de una plataforma virtual que le permita ofrecer sus productos y servicios a sus consumidores sin intermediarios.
 
