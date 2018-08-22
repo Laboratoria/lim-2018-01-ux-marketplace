@@ -198,7 +198,7 @@ El coach o jedi master te dará el ok para que puedas empezar.
 |Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
 |Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
 |Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
+|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
