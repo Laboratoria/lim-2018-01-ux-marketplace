@@ -20,6 +20,9 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 ![hamburguer](hamburguer.jpg "La América")
 
 ## 3. Objetivos del proyecto
+Crear una plataforma web online que refleje la identidad de la América y les permita ofrecer sus productos virtualmente y de manera ordenada.
+### 3.1 Hipotesis
+Desarrollar una tienda virtual donde eesten expuestos los productos de la  América.
 
 ## 4. Planificación de actividades
 
@@ -37,8 +40,9 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 ### 5.1. Objetivos del negocio
 ### 5.2. Benchmarking
 
-[benchmark](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
+![benchmarking cuadro](https://user-images.githubusercontent.com/34355830/44951792-8a338f00-ae33-11e8-989e-b468f2611e03.png)
 
+[benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
 ### 5.3. Entrevista con el cliente (conclusiones + link)
 ####Guía de entrevista - La América H&C**
 
@@ -65,15 +69,53 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 * ¿Alguna vez ha tenido algún inconveniente en la venta online?
 
 ### 5.4. Entrevista con usuarios (conclusiones + link)
+####Guía de entrevista - La América H&C**
+
+**Objetivos:**
+* Obtener información sobre la empresa en sí y sus productos de forma más detallada.
+* Conocer el público objetivo del cliente.
+* Conocer el proceso de venta online del cliente.
+* Conocer los pain-points del cliente en el proceso de venta online de sus productos.
+
+**Inicio:**
+Buenas Tardes srta. …………………, somos ………………………… y ………………….. . estudiantes de Laboratoria.
+Muchas gracias por el tiempo que nos brindará durante la entrevista.
+
+**Lista de preguntas:**
+* ¿A qué se debe la elección del rubro?
+* ¿Cómo ve su empresa de aquí a 3 años?
+* ¿Qué imagen desea proyectar en el corto plazo?
+* ¿Cuál considera que es su público objetivo?
+* ¿Cómo logran fidelizar a sus clientes?
+* ¿Qué productos son los que suelen vender más en tienda? ¿Y de manera online?
+* ¿Por qué decidió realizar el servicio de delivery? ¿Por qué en bicicleta?
+* ¿Cuál es su zona de reparto? ¿Por qué seleccionaron esa zona?
+* ¿Cómo es su proceso de venta online? ¿Me puedes contar sobre la última venta online que recuerdes? (Facebook, Whatsapp, medios de pago, tiempo de preparación, comprobantes)
+* ¿Alguna vez ha tenido algún inconveniente en la venta online?
+
+[EntrevistaUsuario] (https://docs.google.com/document/d/1oNi_22kqEfCDFXGfSRaQ8_vtdLlQLzn2doj551Cm6uI/edit)
 
 ## 6. Definición del público objetivo
 ### 6.1. User persona
 ### 6.2. Customer journey map
+* Actual
+![cjm actual](https://user-images.githubusercontent.com/34355830/44951726-93236100-ae31-11e8-9ace-e43cf4dff246.jpg)
 
+* Ideal
+![cum ideal](https://user-images.githubusercontent.com/34355830/44951729-acc4a880-ae31-11e8-9bd0-764827943221.jpg)
+
+[customer journey map](https://drive.google.com/drive/folders/17vYzO1SsgIuF4Dm9eyz2--yUb_p6Mkmp?usp=sharing)
 ## 7. Testing con usuarios
+### 7.1 Conclusiones
+* Especificar el horario de atención.
+* En la parte superior se debe mostrar el nombre de usuario.
+* Centrar la posicion del método del pago.
 
 ## 8. Propuesta final
 ### 8.1. Flujo / árbol de contenidos
+
+![user flow](https://user-images.githubusercontent.com/34355830/44951750-57d56200-ae32-11e8-95f8-85ee54b7bd6c.jpg)
+
 ### 8.2. Prototipo navegable
 
 ## 9. Conclusiones
