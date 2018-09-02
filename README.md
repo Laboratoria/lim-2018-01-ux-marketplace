@@ -17,7 +17,7 @@ LaAmérica H&C es un emprendimiento que nació en el 2016 como una alternativa a
 
 La empresa ofrece a sus consumidores como principal producto una variedad de hamburguesas artesanales de carne y con alternativa vegetariana. Asimismo, ofrece acompañamientos como ensaladas de vegetales, jugos nutritivos, papas nativas, café orgánico, entre otros.
 
-![hamburguer](hamburguer.jpg "La América")
+![hamburguer](img/hamburguer.jpg "La América")
 
 ## 3. Objetivos del proyecto
 Crear una plataforma web online que refleje la identidad de la América y les permita ofrecer sus productos virtualmente y de manera ordenada.
