@@ -105,6 +105,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 ![cum ideal](https://user-images.githubusercontent.com/34355830/44951729-acc4a880-ae31-11e8-9bd0-764827943221.jpg)
 
 [Link customer journey map](https://drive.google.com/drive/folders/17vYzO1SsgIuF4Dm9eyz2--yUb_p6Mkmp?usp=sharing)
+
 ## 7. Testing con usuarios
 ### 7.1 Conclusiones
 * Especificar el horario de atención.
