@@ -42,9 +42,9 @@ Desarrollar una tienda virtual donde eesten expuestos los productos de la  Amér
 
 ![benchmarking cuadro](https://user-images.githubusercontent.com/34355830/44951792-8a338f00-ae33-11e8-989e-b468f2611e03.png)
 
-[benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
+[Drive benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
 ### 5.3. Entrevista con el cliente (conclusiones + link)
-####Guía de entrevista - La América H&C**
+#### Guía de entrevista - La América H&C**
 
 **Objetivos:**
 * Obtener información sobre la empresa en sí y sus productos de forma más detallada.
@@ -69,7 +69,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 * ¿Alguna vez ha tenido algún inconveniente en la venta online?
 
 ### 5.4. Entrevista con usuarios (conclusiones + link)
-####Guía de entrevista - La América H&C**
+#### Guía de entrevista - La América H&C**
 
 **Objetivos:**
 * Obtener información sobre la empresa en sí y sus productos de forma más detallada.
@@ -93,7 +93,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 * ¿Cómo es su proceso de venta online? ¿Me puedes contar sobre la última venta online que recuerdes? (Facebook, Whatsapp, medios de pago, tiempo de preparación, comprobantes)
 * ¿Alguna vez ha tenido algún inconveniente en la venta online?
 
-[EntrevistaUsuario] (https://docs.google.com/document/d/1oNi_22kqEfCDFXGfSRaQ8_vtdLlQLzn2doj551Cm6uI/edit)
+[Link Entrevista Usuario] (https://docs.google.com/document/d/1oNi_22kqEfCDFXGfSRaQ8_vtdLlQLzn2doj551Cm6uI/edit)
 
 ## 6. Definición del público objetivo
 ### 6.1. User persona
@@ -104,7 +104,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 * Ideal
 ![cum ideal](https://user-images.githubusercontent.com/34355830/44951729-acc4a880-ae31-11e8-9bd0-764827943221.jpg)
 
-[customer journey map](https://drive.google.com/drive/folders/17vYzO1SsgIuF4Dm9eyz2--yUb_p6Mkmp?usp=sharing)
+[Link customer journey map](https://drive.google.com/drive/folders/17vYzO1SsgIuF4Dm9eyz2--yUb_p6Mkmp?usp=sharing)
 ## 7. Testing con usuarios
 ### 7.1 Conclusiones
 * Especificar el horario de atención.
@@ -113,6 +113,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 
 ## 8. Propuesta final
 ### 8.1. Flujo / árbol de contenidos
+* User Flow
 
 ![user flow](https://user-images.githubusercontent.com/34355830/44951750-57d56200-ae32-11e8-95f8-85ee54b7bd6c.jpg)
 
