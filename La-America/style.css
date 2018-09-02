@@ -1,0 +1,12 @@
+.parallax-container .parallax img {
+    opacity: 100;
+}
+
+.navbar-fixed {
+    position: absolute;
+}
+
+.maps img {
+    width: 100%;
+    max-width: 500px;
+}

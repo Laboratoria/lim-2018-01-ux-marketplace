@@ -1,6 +1,6 @@
 # Propuesta de plataforma en línea - La América H&C
 
-Hoy en día, el 78% de peruanos opta por alternativas orgánicas para su alimentación. Esta cifra, producto de un estudio de la consultora Nielsen (http://www.nielsen.com/pe/es/insights/reports/2017/La-revolucion-de-los-alimentos-en-America-Latina-la-salud-es-una-prioridad-para-el-consumidor.html), refleja uno de los niveles más altos de consumo en la región latinoamericana.
+Hoy en día, el 78% de peruanos opta por alternativas orgánicas para su alimentación. Esta cifra, producto de un [estudio de la consultora Nielsen](http://www.nielsen.com/pe/es/insights/reports/2017/La-revolucion-de-los-alimentos-en-America-Latina-la-salud-es-una-prioridad-para-el-consumidor.html), refleja uno de los niveles más altos de consumo en la región latinoamericana.
 
 A consecuencia de ello, se produce el nacimiento de un nuevo nicho de mercado en el Perú que va creciendo con rapidez en los últimos años: los restaurantes de comida saludable, a lo cual algunos especialistas han denominado “el segundo boom de la gastronomía peruana”, en donde el sabor y la salud caminan de la mano en búsqueda de rentabilidad.
 
@@ -40,7 +40,7 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 [benchmark](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
 
 ### 5.3. Entrevista con el cliente (conclusiones + link)
-####Guía de entrevista - La América H&C**
+#### Guía de entrevista - La América H&C**
 
 **Objetivos:**
 * Obtener información sobre la empresa en sí y sus productos de forma más detallada.
