@@ -1,0 +1,462 @@
+@font-face {
+  font-family: glacialRegular;
+  src: url('../fonts/glacial-indifference.regular.otf');
+}
+
+@font-face {
+  font-family: glacialBold;
+  src: url('../fonts/glacial-indifference.bold.otf');
+}
+
+*{
+  font-family: glacialRegular;
+}
+*:focus { 
+  outline: none;
+}
+
+body{
+  margin:0;
+}
+
+header{
+  width: 100%;
+  height:100px;
+}
+
+h1{
+  display:none;
+}
+
+header nav{
+  width: 70%;
+  height: 50%;
+  position: fixed;
+}
+
+header nav ul{
+  list-style: none;
+}
+
+header nav ul li a{
+  color: white;
+  text-decoration: none;
+}
+
+section{
+  width: 100%;
+  height: 251px;
+  color: #FFFFFF;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22.67px;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+h3{
+  font-size: 13.33px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+}
+
+h4{
+  color: #47525E !important;
+  font-size: 13.33px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+
+h5{
+  margin: 0;
+  font-size: 0.5em;
+  text-align: center;
+}
+
+#burguerMenu, #carShopButton{
+  border: none;
+  background: none;
+}
+
+#carShopContainer, #logo, #burguerMenu{
+  float: left;
+}
+
+#burguerMenu{
+  padding-left:0;
+  padding-right: 7px;
+  padding-left: 7px;
+  text-align: center;
+}
+
+#carShopButton{
+  padding: 0;
+}
+
+#carShopContainer,#burguerMenu{
+  margin-top: 10%;
+}
+
+#iconsContent{
+ margin-left: 1%;
+ height: 100%;
+} 
+.circle {
+    background-color: #F95F62;
+    border-radius: 100%;
+    width: 14px;
+    height: 14px;
+    margin: 0;
+    font-size: 12px;
+    float:right;
+    text-align: center;
+}
+
+#logo{
+  width: 100px;
+  height: 100px;
+}
+
+#carShopContainer, #logo{
+margin-left: 20%;
+}
+
+.icon{
+  width: 2em;
+  height: 2em;
+}
+
+#about{
+  background-image: url('../img/about.jpg');
+ /*  opacity:0.8; */
+  background-size: cover;
+}
+
+#aboutDescription{
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 26.67px;
+  text-align: left;
+  padding-top: 20%;
+  margin-left: 10%;
+  width: 60%;
+  height: 30%;
+  margin-bottom: 2em;
+}
+
+#ourProducts, #howShop{
+  color: #000000;
+}
+
+#content{
+  overflow: auto;
+  margin-bottom: 2em;
+}
+
+.products{
+    width: 5.5em;
+    height: 90px;
+}
+
+.position, .positionProducts{
+  float: left;
+  margin-left: 4%;
+}
+
+#steps{
+  height: 40%;
+  background-image: url('../img/coffee-road.png');
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position-x: 2.5em; 
+}
+
+.stepContent{
+  width: 20%;
+  height: 35%;
+}
+
+.stepcircle{
+  background-color: #000000;
+  border-radius: 100%;
+  font-size: 1.5em;
+  text-align: center;
+  color: white;
+  width: 33.33px;
+  height: 33.33px;
+  margin-left: 25%;
+}
+
+#stepOne{
+  background-color: #A66C41;
+}
+
+#carIcon{
+  width: 66.67px;
+  height: 40px;
+  margin-left: 1em;
+  margin-top: 0.5em;
+}
+
+#ourProcess{
+  background-image: url('../img/our-process.jpeg');
+ /*  opacity:0.8; */
+  background-size: cover;
+  background-position-x: -2.5em; 
+
+}
+
+#ourProcessInfo{
+  line-height: 22.67px; 
+  text-align: center;
+  margin-bottom: 2.4em;
+  padding-top: 35%;
+}
+
+#matchCoffee{
+  background-image: url('../img/coffee-background.png');
+ /*  opacity:0.8; */
+  background-size: cover;
+}
+
+#matchCoffeeInfo{
+  font-size: 16.67px;
+  font-weight: 400;
+  text-align: center;
+  width: 90%;
+  height: 35%;
+  margin-left: 5%;
+  padding-bottom: 1em;
+}
+
+.button{
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 5px;
+  width: 50%;
+  height: 2em;
+  font-size: 0.8em;
+  text-align: center;
+  border: none;
+  margin-left: 25%;
+  font-weight: bold;
+}
+
+
+footer{
+  background-color: #000000;
+  color: #FFFFFF;
+  font-size: 13.33px;
+}
+
+footer > p { 
+  margin: 0;
+  padding-top: 1em;
+  margin-left: 0.5em;
+  padding-bottom: 1em;
+}
+
+footer > div{
+  overflow: auto;
+  height: 2em;
+  width: 100%;
+}
+
+footer > div > p { 
+  margin: 0;
+  width: 80%;
+  float: left;
+  margin-left: 0.5em;
+}
+
+footer > div > img { 
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: 0.3em;
+}
+
+#footerTitle{
+  font-weight: bold;
+}
+
+#fb, #insta{
+  float: right;
+}
+
+
+#menuContent{
+display:none;
+width: 90%;
+margin-top: 5.23em;
+margin-left: -3em;
+}
+
+.menu {
+  background-color: black; 
+  border: none;
+  border-bottom: 1px solid #FFFFFF;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 1em;
+  cursor: pointer;
+  display: block;
+}
+
+#carShopList{
+  display: none;
+  width: 80%;
+  height: 80%;
+  position: fixed;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 1em;
+  margin-top: 6.23em;
+  margin-left: 4em;
+}
+
+#carShopList p {
+  padding-top: 5em;
+  padding-bottom: 2em;
+  width: 80%;
+  height: 20%;
+  margin-left: 10%;
+
+}
+
+#carShopList div {
+ overflow: auto;
+
+}
+
+#close{
+  float: right;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  margin-right: 0.5em;
+  border: none;
+  background: transparent;
+  color: white;
+  font-size: 1em;
+}
+
+#backShop{
+  background-color: white;
+  color: black;
+  margin: 0;
+}
+
+
+@media (min-width: 375px){
+  .button{
+    font-size: 1em;
+  }
+
+  #carShopContainer, #logo{
+    margin-left: 25%;
+  }
+
+  #carShopList{
+    margin-left: 5em;
+  }
+
+  .positionProducts{
+    margin-left: 7%;
+  }
+
+  #aboutDescription{
+    margin-bottom: 1.5em;
+  }
+
+  #ourProcessInfo{
+    padding-top: 30%;
+    margin-bottom: 1.9em;
+  }
+
+  #ourProcess{
+    background-position-x: -0.5em; 
+  }
+
+  #matchCoffeeInfo{
+    padding-bottom: 0.8em;
+  }
+
+}
+
+@media (min-width: 414px){
+  #carShopContainer, #logo{
+    margin-left: 27%;
+    }
+
+  #carShopList{
+      margin-left: 5.5em;
+  }
+  
+  .positionProducts{
+    margin-left: 9%;
+  }
+
+  #ourProcess{
+    background-position-x: 0em; 
+  
+  }
+
+  #matchCoffeeInfo{
+    padding-bottom: 1.3em;
+  }
+    
+}
+
+
+@media (min-width: 768px){
+
+}
+
+
+@media (min-width: 1024px){
+  #burguerMenu{
+    display: none;
+  }
+
+  #logo{
+    margin-left: 0.5em;
+    width: 80px;
+    height: 80px;
+  }
+
+  h1{
+    display:inherit;
+    font-size: 2em;
+    margin:0;
+    padding-top: 0.6em;
+    width: 40%;
+    float: left;
+  }
+  #carShopContainer{
+    margin: 0;
+  }
+
+  .menu{
+    float: right;
+    padding: 0;
+    border: none;
+    background-color: none;
+    color: black;
+  }
+  #menuContent{
+    display: inherit;
+
+  }
+
+}
+
+
