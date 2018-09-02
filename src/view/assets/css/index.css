@@ -222,7 +222,7 @@ margin-left: 20%;
 }
 
 #matchCoffee{
-  background-image: url('../img/coffee-background.png');
+  background-image: url('../img/Coffee-Beans.jpg');
  /*  opacity:0.8; */
   background-size: cover;
 }
@@ -242,7 +242,7 @@ margin-left: 20%;
   color: #FFFFFF;
   border-radius: 5px;
   width: 50%;
-  height: 2em;
+  height: 3em;
   font-size: 0.8em;
   text-align: center;
   border: none;
@@ -280,7 +280,7 @@ footer > div > p {
 footer > div > img { 
   width: 1.5em;
   height: 1.5em;
-  margin-right: 0.3em;
+  margin-right: 0.6em;
 }
 
 #footerTitle{
@@ -289,6 +289,11 @@ footer > div > img {
 
 #fb, #insta{
   float: right;
+}
+
+#textFooter:link {
+  color: white;
+  padding: 0;
 }
 
 
@@ -419,10 +424,161 @@ margin-left: -3em;
 
 @media (min-width: 768px){
 
+  #carShopContainer,#burguerMenu{
+    margin-top: 4%;
+  }
+
+  .icon{
+    width: 3em;
+    height: 3em;
+  }
+
+  #carShopContainer, #logo{
+    margin-left: 34.5%;
+  }
+
+  #burguerMenu{
+    margin-left: 2%;
+  }
+
+  section{
+    height: 350px;
+  }
+  
+  h2{
+    font-size: 30px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  
+  h3{
+    font-size: 20px;
+  }
+  
+  h4{
+    font-size: 20px;
+    margin-top: 1em;
+  }
+    
+  #aboutDescription{
+    font-size: 50px;
+    line-height: 50px;
+    padding-top: 15%;
+    margin-left: 10%;
+    width: 60%;
+    height: 30%;
+    margin-bottom: 1em;
+  }
+  
+  .products{
+      width: 9em;
+      height: 10em;
+  }
+  
+  .positionProducts{
+    margin-left: 10%;
+  }
+
+  .position{
+    margin-left:4%;
+  }
+  
+  #steps{
+    background-position-x: 5em;
+    margin-right: 1.5em;
+  }
+  
+
+  .stepcircle{
+    font-size: 2.5em;
+    width: 50px;
+    height: 50px;
+    margin-left: 32%;
+  }
+  
+  
+  #carIcon{
+    width: 85px;
+    height: 45px;
+    margin-left: 4em;
+    margin-top: 1em;
+  }
+ 
+  #ourProcessInfo{
+    margin-bottom: 1.5em;
+    padding-top: 20%;
+    font-size: 40px;
+  }
+  
+  #matchCoffeeInfo{
+    font-size: 25px;
+    width: 70%;
+    height: 35%;
+    margin-left: 15%;
+    padding-bottom: 1em;
+  }
+  
+  .button{
+    width: 33.3%;
+    height: 2em;
+    font-size: 1em;
+    margin-left: 33.3%;
+  }
+  
+  
+  footer{
+    font-size: 16px;
+  }
+  
+  footer > p { 
+    margin-left: 1em;
+    padding-top: 0.5em;
+  }
+  
+  footer > div{
+    height: 2em;
+  }
+  
+  footer > div > p { 
+    width: 60%;
+    margin-left: 1em;
+  }
+  
+  footer > div > img { 
+    width: 2em;
+    height: 2em;
+    margin-right: 1em;
+  }
+
+  #menuContent{
+  width: 60%;
+  }
+  
+  .menu {
+    font-size: 1.5em;
+  }
+  
+  #carShopList{
+    width: 60%;
+    height: 60%;
+    font-size: 1em;
+    margin-left: 19.5em;
+  }
+  
+  #close{
+    margin-top: 1em;
+    margin-right: 1em;
+    font-size: 1.5em;
+  }
+    
 }
 
 
 @media (min-width: 1024px){
+
+  header{
+    height: 80px;
+  }
   #burguerMenu{
     display: none;
   }
@@ -438,25 +594,249 @@ margin-left: -3em;
     font-size: 2em;
     margin:0;
     padding-top: 0.6em;
-    width: 40%;
+    width: 30%;
     float: left;
   }
+
   #carShopContainer{
     margin: 0;
+    float: right;
+    margin-right: 0.8em;
+    margin-top: -3.5em;
+  }
+
+  .icon{
+    width: 2em;
+    height: 2em;
   }
 
   .menu{
-    float: right;
+    float: left;
     padding: 0;
     border: none;
-    background-color: none;
-    color: black;
+    background-color: transparent;
+    font-size: 1em;
+
   }
+
   #menuContent{
-    display: inherit;
-
+    display: inherit !important;
+    height: 80px;
+    margin-left: 25em;
+    margin-top: -2em;
+    width: 55%;
   }
 
+  header nav{
+    position: initial;
+  }
+
+  nav ul{
+    height: 100px;
+    text-align: center;
+    margin-top: 2em;
+  }
+
+  nav ul li{
+    height: 70px;
+    text-align: center;
+    width: 100px;
+    margin: 0.5em;
+  }
+  
+/*   header nav ul li:hover{
+    background-color: #000000;
+  }
+
+  header nav ul li a:hover{
+    background-color: #000000;
+
+    color: white !important;
+  } */
+
+  header nav ul li a{
+    color: black;
+    vertical-align:middle;
+    font-weight: bold;
+  }
+
+  nav ul li:nth-child(1), nav ul li:nth-child(2), nav ul li:nth-child(5){
+    padding-top: 1em;
+    width: 70px;
+  }
+
+  nav ul li:nth-child(5){
+    width: 90px !important;
+  }
+
+  nav ul li:nth-child(4){
+    padding-top: 0.5em;
+  }
+
+  .button{
+    width: 30%;
+    height: 2em;
+    font-size: 1.5em;
+    margin-left: 35%;
+  }
+
+  #aboutDescription{
+    padding-top: 10%;
+    margin-bottom: 1.5em;
+  }
+  
+  .positionProducts{
+    margin-left: 14%;
+  }
+
+  .position{
+    margin-left:5%;
+  }
+  
+  #steps{
+    background-position-x: 8em;
+    height: 170px;
+    margin-right: 4em;
+  }
+  
+
+  .stepcircle{
+    margin-top: 0.3em;
+  }
+
+  #howShop{
+    margin-top: 2em;
+  }
+  
+  
+  #carIcon{
+    margin-left: 5em;
+  }
+ 
+  #ourProcessInfo{
+    margin-bottom: 1.5em;
+    padding-top: 15%;
+  }
+  
+  #matchCoffeeInfo{
+    font-size: 25px;
+    width: 60%;
+    height: 35%;
+    margin-left: 20%;
+    padding-bottom: 1em;
+  }
+
+  #carShopList{
+    font-size: 1.3em;
+    margin-left: 19.7em;
+    margin-top: 0;
+  }
+  
+  #close{
+    margin-top: 1em;
+    margin-right: 1em;
+    font-size: 1.5em;
+  }
+
+  #backShop{
+      font-size: 1em;
+  }
+
+}
+
+@media (min-width: 1280px){
+
+  #menuContent{
+    margin-left: 42em;
+    width: 50%;
+  }
+
+  header nav ul li:hover{
+    background-color: #000000;
+  }
+
+  header nav ul li a:hover{
+
+    color: white !important;
+  }
+
+  header nav ul li a{
+    color: black;
+    vertical-align:middle;
+    font-weight: bold;
+  }
+
+  nav ul li:nth-child(1), nav ul li:nth-child(2), nav ul li:nth-child(5){
+    padding-top: 1em;
+    width: 70px;
+    height: 50px;
+  }
+
+  nav ul li:nth-child(4){
+    padding-top: 0.5em;
+    height: 58px;
+  }
+
+  .button{
+    width: 25%;
+    margin-left: 37.5%;
+  }
+
+  #aboutDescription{
+    padding-top: 8%;
+    width: 50%;
+    margin-bottom: 1em;
+  }
+
+  #about{
+    background-position-y: -10em;
+  }
+  
+  .positionProducts{
+    margin-left: 17%;
+  }
+  
+  #steps{
+    background-position-x: 8em;
+    margin-right: 0em;
+    background-size: 70%;
+    margin-left: 10em;
+  }
+  
+
+
+  #howShop{
+    margin-top: 3em;
+  }
+
+  .position{
+    margin-left: 2.3%;
+  }
+
+  #carIcon{
+    margin-left: 15em;
+  }
+ 
+  #ourProcessInfo{
+    margin-bottom: 1.7em;
+    padding-top: 10%;
+  }
+  
+  #matchCoffeeInfo{
+    padding-bottom: 0.5em;
+  }
+
+  #carShopList{
+    margin-left: 32.5em;
+    height: 70%;
+    width: 50%;
+  }
+  
+  #close{
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+    font-size: 1em;
+  }
 }
 
 
