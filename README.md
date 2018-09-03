@@ -21,6 +21,7 @@ Actualmente The Coffee Road se dedica a la venta de cafés preparados con distin
 * En este video creado en la plataforma Loom, explicamos en resumen del proceso de investigación e implementación de este documento..
 ![UP](https://crisescobar.files.wordpress.com/2018/09/loom.png)
 
+[Video del demo](https://www.useloom.com/share/9a4af7e96db74a858e8df86e160cadc7)
 
 ## Objetivos y presupuesto
 **Objetivos generales y objetivos del producto:**
@@ -60,7 +61,7 @@ Le realizamos una primera entrevista con el fin de conocer más sobre el negocio
 
 * [Notas de entrevista](https://docs.google.com/document/d/1BAJCXTshK-URreopjwQFinyHhrC9ELHHAWIY1ia_diQ/edit?usp=sharing)
 
-* **Conclusiones:**
+**Conclusiones:**
 * El café que vende The Coffee Road no es cualquiera, es especializado y debe pasar todo un proceso para que pueda ser consumido por el cliente. La empresa cuida bastante el tema de la cultura del café con el fin de dar la mejor experiencia al cliente, es por ello que ellos mismos evaluan y tuestan el cafe.
 
 * Tratan que el precio no sea tan alto para que sea accesible para los clientes (a pesar de encontrarse en San Isidro)
@@ -198,12 +199,14 @@ Algunas tareas que les dimos al usuario para realizar fueron las siguientes:
 
 Con lo observado pudimos realizar ciertas iteraciones. Algunas de ellas fueron las siguientes:
 * Cambiar el término "origenes" (correctamente dicho en referencia a los tipos de cafés), por simplemente cafés.
-* Colocar una descripción de los productos en la página principal, ya que algunos usuarios por ejemplo no entendían lo que era "métodos"
-* Crear una información adicional mediante un link  sobre la definición métodos que se utilizan para la elaboración del café, ya que algunos usuarios se saltaban esa parte
+* Colocar una descripción de los productos en la página principal, ya que algunos usuarios por ejemplo no entendían lo que eran "métodos"
+* Crear una información adicional mediante un link  sobre la definición métodos que se utilizan para la elaboración del café, ya que algunos usuarios se saltaban esa parte por no conocer el significado.
 * Cambiar un poco el tono de voz del contenido, ya que en la cafetería atendienden a los usuarios con un tono bastante cercano y amigable.
 * Especificar el tiempo de entrega del producto.
 
+* [Videos y guía de testing](https://drive.google.com/drive/folders/1ejq7bfFPue8Lq4arsUBAOiMx1gvvfqHc?usp=sharing)
 ![UP](https://crisescobar.files.wordpress.com/2018/09/40595666_1921629944799067_8594101792608878592_n.jpg)
+
 
 
 
