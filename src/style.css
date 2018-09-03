@@ -1,0 +1,11 @@
+* *{
+    font-family: 'Anton', sans-serif;
+     
+  }
+  body{
+    min-height: 100vh;
+  }
+.map {
+    height:250px;
+     
+  }
