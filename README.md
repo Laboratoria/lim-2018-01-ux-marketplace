@@ -20,7 +20,7 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 **Público objetivo**
 Su público objetivo son personas residentes de Lince entre 21 a 35 años, quienes suelen ser trabajadores dependientes con horarios de oficina y con pocas opciones para comer comida saludable durante el día. A esto se debe su horario de 5:30 p.m. a 11:00 p.m.
 
-![about](about-america.png "La América")
+![about](La-America/img/about-america.png "La América")
 
 ## 3. Objetivos del proyecto
 
@@ -44,7 +44,7 @@ Al desarrollar una tienda virtual donde esten expuestos los productos de la  Am�
 ## 5. Proceso de research
 Para iniciar el proceso de investigación planificamos las actividades elegidas a través de Trello, realizando de manera equitativa las actividades a cubrir por el equipo y el tiempo que nos iba a tomar.
 
-![trello](trello-planning.png)
+![trello](La-America/img/trello-planning.png)
 
 
 ### 5.1. Benchmarking
@@ -59,7 +59,7 @@ Escogimos 03 competidores directos:
 
 **Raw Café Club:** Es un restaurante/cafetería ubicado en Miraflores. Cuenta con página web pero no con carrito de compras. Su delivery es a través de las redes sociales o por teléfono. Su horario de funcionamiento es de 9:00a.m. a 10:00p.m.
 
-![benchmarking cuadro](table-benchmarking.jpg)
+![benchmarking cuadro](La-America/img/table-benchmarking.jpg)
 [Diapositivas con benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
 
 **Conclusiones**
@@ -140,7 +140,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 
 Luego del proceso de investigación pudimos elaborar el User Persona que nos servirá para plantear a detalle los contenidos y flujos del prototipo.
 
-![User persona](User-persona.png)
+![User persona](La-America/img/User-persona.png)
 
 ### 6.2. Customer journey map
 * Actual
