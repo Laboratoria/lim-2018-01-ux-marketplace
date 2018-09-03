@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>The Coffee Road</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="view/assets/css/index.css"/>
+  <link rel="icon" type="image/png" href="view/assets/img/TCR-logo.jpg" />
+    
+</head>
+<body>
+	<header>
+			<button id="burguerMenu"><img id="burguer" class="icon" src="view/assets/img/burguer.png" alt="burguer menu"></button>
+			<img id="logo" src="view/assets/img/TCR-logo.jpg" alt="the coffee road icon">
+			<h1>THE COFFEE ROAD</h1>
+
+		<nav id="menuContent">
+				<ul>
+					<li class="menu"><a href="#">Nosotros</a></li>
+					<li class="menu"><a href="#">Tienda</a></li>
+					<li class="menu"><a href="#">Conoce el proceso del café</a></li>
+					<li class="menu"><a href="#">¿Qué café va conmigo?</a></li>
+					<li class="menu"><a href="#">Contáctanos</a></li>
+				</ul>
+		</nav>
+		
+		<div id="carShopContainer">
+				<p class="circle">0</p>
+				<button id="carShopButton"><img id="carShop" class="icon" src="view/assets/img/cart-of-ecommerce.png" alt="car shop"></button>
+		</div>
+
+		
+		<div id="carShopList">
+			<div>
+				<button id="close">X</button>
+			</div>
+			<h3>MI CARRITO DE COMPRAS</h3>
+			<p>Aún no tienes productos en tu carrito.</p>
+			<button class="button" id="backShop">Volver a la tienda</button>
+		</div>
+
+	</header>
+
+	<section id="about">
+		<div id="aboutDescription">Somos una cafetería especializada</div>
+		<button class="button">Descúbrenos</button>
+	</section>
+
+	<section id="ourProducts">
+		<h2>Nuestros productos</h2>
+		<div id="content">
+			<div class="positionProducts">
+				<img class="products" src="view/assets/img/1.png" alt="coffee bag">
+				<h3>Cafés</h3>
+			</div>
+
+			<div class="positionProducts">
+				<img class="products" src="view/assets/img/brewing.jpg" alt="brewing coffee">
+				<h3>Métodos</h3>
+			</div>
+
+			<div class="positionProducts">
+				<img class="products" src="view/assets/img/accesories.png" alt="accesories">
+				<h3>Accesorios</h3>
+			</div>
+		</div>
+		<button class="button">Ir a la tienda</button>
+	</section>
+
+	<section id="howShop">
+		<h2>¿Cómo comprar online?</h2>
+		<img id="carIcon" src="view/assets/img/car.png" alt="car">
+		<div id="steps">
+			<!-- que tenga como fondo el camino de café -->
+			<div class="position stepContent">
+				<h3 class="stepcircle" id="stepOne">1</h3>
+				<h4>Éscoge tu producto</h4>
+			</div>
+			
+			<div class="position stepContent">
+				<h3 class="stepcircle">2</h3>
+				<h4>LLena tus datos personales y del modo de entrega</h4>
+			</div>
+		
+			<div class="position stepContent">
+				<h3 class="stepcircle">3</h3>
+				<h4>Escoge el método de pago</h4>
+			</div>
+
+			<div class="position stepContent">
+				<h3 class="stepcircle">4</h3>	
+			  <h4>Confirma tu compra y ¡listo!</h4>
+			</div>
+		</div>
+	</section>
+
+	<section id="ourProcess">
+		<h2 id="ourProcessInfo">DISCOVER • EXPLORE • ENJOY</h2>
+		<button class="button">Conoce nuestro proceso</button>
+	</section>
+
+	<section id="matchCoffee">
+		<h2>¿No sabes qué café escoger?</h2>
+		<p id="matchCoffeeInfo">¡No te preocupes!, nosotros te recomendamos. Escoge el aroma y sabor que más te guste, y averigua el tipo de café va contigo.</p>
+		<button class="button">¿Qué café va conmigo?</button>
+	</section>
+
+	<footer>
+		<p class="textFooter" id="footerTitle">Descubre la experiencia en:</p>
+		<div id="infoFooter">
+			<p class="textFooter">Av. Guillermo Prescott 365, San Isidro 15076</p>
+			<img id="fb" src="view/assets/img/facebook-letter-logo.png" alt="facebook icon">
+			<img id="insta" src="view/assets/img/instagram-logo-white.png" alt="instagram icon">
+		</div>
+		<p class="textFooter">(01) 6372028</p>
+	</footer>
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="controller/main.js"></script>
+	
+</body>
+</html>
