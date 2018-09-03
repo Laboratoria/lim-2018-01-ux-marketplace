@@ -1,0 +1,605 @@
+@font-face {
+    font-family: glacialRegular;
+    src: url('../fonts/glacial-indifference.regular.otf');
+  }
+  
+  @font-face {
+    font-family: glacialBold;
+    src: url('../fonts/glacial-indifference.bold.otf');
+  }
+  
+  *{
+    font-family: glacialRegular;
+  }
+  *:focus { 
+    outline: none;
+  }
+  
+  body{
+    margin:0;
+  }
+  
+  header{
+    width: 100%;
+    height:100px;
+  }
+  
+  h1{
+    display:none;
+  }
+  
+  header nav{
+    width: 70%;
+    height: 50%;
+    position: fixed;
+  }
+  
+  header nav ul{
+    list-style: none;
+  }
+  
+  header nav ul li a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* section{
+    width: 100%;
+    height: 251px;
+    color: #FFFFFF;
+  } */
+  
+  h2{
+    font-size: 25px;
+    font-weight: 700;
+/*     line-height: 22.67px; */
+    text-align: center;
+    margin: 0;
+    float: left;
+    margin-left: 0.5em;
+  }
+
+  img{
+    float: left;
+  }
+
+  #checked{
+    overflow: auto;
+    margin-left: 30%;
+    margin-top: 3em;
+  }
+  
+  h3{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+
+  .information{
+    text-align: center;
+    margin: 0;
+    font-weight: bolder;
+    font-size: 16px;
+    font-family: glacialBold;
+    width: 80%;
+    margin-left: 10%;
+   /*  height: ; */
+  }
+
+  #confirmImage{
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+
+  #burguerMenu, #carShopButton{
+    border: none;
+    background: none;
+  }
+  
+  #carShopContainer, #logo, #burguerMenu{
+    float: left;
+  }
+  
+  #burguerMenu{
+    padding-left:0;
+    padding-right: 7px;
+    padding-left: 7px;
+    text-align: center;
+  }
+  
+  #carShopButton{
+    padding: 0;
+  }
+  
+  #carShopContainer,#burguerMenu{
+    margin-top: 10%;
+  }
+  
+
+  .circle {
+      background-color: #F95F62;
+      border-radius: 100%;
+      width: 14px;
+      height: 14px;
+      margin: 0;
+      font-size: 12px;
+      float:right;
+      text-align: center;
+  }
+  
+  #logo{
+    width: 100px;
+    height: 100px;
+  }
+  
+  #carShopContainer, #logo{
+  margin-left: 20%;
+  }
+  
+  .icon{
+    width: 2em;
+    height: 2em;
+  }
+  
+
+  .button{
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    width: 50%;
+    height: 3em;
+    font-size: 0.8em;
+    text-align: center;
+    border: none;
+    margin-left: 25%;
+    font-weight: bold;
+    margin-bottom: 2em;
+    margin-top: 2em;
+  }
+  
+  
+  footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 13.33px;
+  }
+  
+  footer > p { 
+    margin: 0;
+    padding-top: 1em;
+    margin-left: 0.5em;
+    padding-bottom: 1em;
+  }
+  
+  footer > div{
+    overflow: auto;
+    height: 2em;
+    width: 100%;
+  }
+  
+  footer > div > p { 
+    margin: 0;
+    width: 80%;
+    float: left;
+    margin-left: 0.5em;
+  }
+  
+  footer > div > img { 
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.6em;
+  }
+  
+  #footerTitle{
+    font-family: glacialBold;
+  }
+  
+  #fb, #insta{
+    float: right;
+  }
+  
+  #textFooter:link {
+    color: white;
+    padding: 0;
+  }
+  
+  
+  #menuContent{
+  display:none;
+  width: 90%;
+  margin-top: 5.23em;
+  margin-left: -3em;
+  }
+  
+  .menu {
+    background-color: black; 
+    border: none;
+    border-bottom: 1px solid #FFFFFF;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 1em;
+    cursor: pointer;
+    display: block;
+  }
+  
+  #carShopList{
+    display: none;
+    width: 80%;
+    height: 80%;
+    position: fixed;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    margin-top: 6.23em;
+    margin-left: 4em;
+  }
+  
+  #carShopList p {
+    padding-top: 5em;
+    padding-bottom: 2em;
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+  
+  }
+  
+  #carShopList div {
+   overflow: auto;
+  
+  }
+  
+  #close{
+    float: right;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    margin-right: 0.5em;
+    border: none;
+    background: transparent;
+    color: white;
+    font-size: 1em;
+  }
+  
+  #backShop{
+    background-color: white;
+    color: black;
+    margin: 0;
+  }
+  
+  
+  @media (min-width: 375px){
+    .button{
+      font-size: 1em;
+    }
+  
+    #carShopContainer, #logo{
+      margin-left: 25%;
+    }
+  
+    #carShopList{
+      margin-left: 5em;
+    }
+  
+  }
+  
+  @media (min-width: 414px){
+    #carShopContainer, #logo{
+      margin-left: 27%;
+      }
+  
+    #carShopList{
+        margin-left: 5.5em;
+    }
+    
+  }
+  
+  
+  @media (min-width: 768px){
+  
+    #carShopContainer,#burguerMenu{
+      margin-top: 4%;
+    }
+  
+    .icon{
+      width: 3em;
+      height: 3em;
+    }
+  
+    #carShopContainer, #logo{
+      margin-left: 34.5%;
+    }
+  
+    #burguerMenu{
+      margin-left: 2%;
+    }
+
+    #checked{
+      margin-left: 37.5%;
+      width: 25%;
+    }
+  
+    h2{
+      font-size: 40px;
+
+    }
+    
+    h3{
+      font-size: 30px;
+    }
+
+    .information{
+      font-size: 28px;
+    }
+
+    #confirmImage{
+      margin-top: 5%;
+      margin-bottom: 5%;
+    }
+  
+        
+    .button{
+      width: 33.3%;
+      height: 2em;
+      font-size: 1.5em;
+      margin-left: 33.3%;
+    }
+    
+    
+    footer{
+      font-size: 16px;
+    }
+    
+    footer > p { 
+      margin-left: 1em;
+      padding-top: 0.5em;
+    }
+    
+    footer > div{
+      height: 2em;
+    }
+    
+    footer > div > p { 
+      width: 60%;
+      margin-left: 1em;
+    }
+    
+    footer > div > img { 
+      width: 2em;
+      height: 2em;
+      margin-right: 1em;
+    }
+  
+    #menuContent{
+    width: 60%;
+    }
+    
+    .menu {
+      font-size: 1.5em;
+    }
+    
+    #carShopList{
+      width: 60%;
+      height: 60%;
+      font-size: 1em;
+      margin-left: 19.5em;
+    }
+    
+    #close{
+      margin-top: 1em;
+      margin-right: 1em;
+      font-size: 1.5em;
+    }
+      
+  }
+  
+  
+  @media (min-width: 1024px){
+  
+    header{
+      height: 80px;
+    }
+    #burguerMenu{
+      display: none;
+    }
+  
+    #logo{
+      margin-left: 0.5em;
+      width: 80px;
+      height: 80px;
+    }
+  
+    h1{
+      display:inherit;
+      font-size: 2em;
+      margin:0;
+      padding-top: 0.6em;
+      width: 30%;
+      float: left;
+    }
+
+    
+/*     #checked{
+      margin-left: 33.3%;
+      width: 30%;
+    }
+   */
+    #carShopContainer{
+      margin: 0;
+      float: right;
+      margin-right: 0.8em;
+      margin-top: -3.5em;
+    }
+  
+    .icon{
+      width: 2em;
+      height: 2em;
+    }
+
+    #confirmationIcon{
+      margin-top: 0.5em;
+    }
+  
+    #checked{
+      margin-left: 40%;
+      width: 30%;
+    }
+  
+    .menu{
+      float: left;
+      padding: 0;
+      border: none;
+      background-color: transparent;
+      font-size: 1em;
+  
+    }
+  
+    #menuContent{
+      display: inherit !important;
+      height: 80px;
+      margin-left: 25em;
+      margin-top: -2em;
+      width: 55%;
+    }
+  
+    header nav{
+      position: initial;
+    }
+  
+    nav ul{
+      height: 100px;
+      text-align: center;
+      margin-top: 2em;
+    }
+  
+    nav ul li{
+      height: 70px;
+      text-align: center;
+      width: 100px;
+      margin: 0.5em;
+    }
+    
+    header nav ul li a{
+      color: black;
+      vertical-align:middle;
+      font-weight: bold;
+    }
+  
+    nav ul li:nth-child(1), nav ul li:nth-child(2), nav ul li:nth-child(5){
+      padding-top: 1em;
+      width: 70px;
+    }
+  
+    nav ul li:nth-child(5){
+      width: 90px !important;
+    }
+  
+    nav ul li:nth-child(4){
+      padding-top: 0.5em;
+    }
+  
+    .button{
+      width: 30%;
+      height: 2em;
+      font-size: 1.5em;
+      margin-left: 35%;
+    }
+
+    #carShopList{
+      font-size: 1.3em;
+      margin-left: 19.7em;
+      margin-top: 0;
+    }
+    
+    #close{
+      margin-top: 1em;
+      margin-right: 1em;
+      font-size: 1.5em;
+    }
+  
+    #backShop{
+        font-size: 1em;
+    }
+  
+  }
+  
+  @media (min-width: 1233px){
+  
+    #menuContent{
+      margin-left: 42em;
+      width: 50%;
+    }
+  
+    header nav ul li:hover{
+      background-color: #000000;
+    }
+  
+    header nav ul li a:hover{
+  
+      color: white !important;
+    }
+  
+    header nav ul li a{
+      color: black;
+      vertical-align:middle;
+      font-weight: bold;
+    }
+  
+    nav ul li:nth-child(1), nav ul li:nth-child(2), nav ul li:nth-child(5){
+      padding-top: 1em;
+      width: 70px;
+      height: 50px;
+    }
+  
+    nav ul li:nth-child(4){
+      padding-top: 0.5em;
+      height: 58px;
+    }
+  
+    .button{
+      width: 25%;
+      margin-left: 37.5%;
+    }
+  
+
+    #carShopList{
+      margin-left: 32.5em;
+      height: 70%;
+      width: 50%;
+    }
+    
+    #close{
+      margin-top: 0.5em;
+      margin-right: 0.5em;
+      font-size: 1em;
+    }
+
+    #confirmImage{
+      width:50%;
+      margin-left: 25%;
+    }
+    .information{
+      width: 40%;
+      height: 20%;
+      margin-left: 30%;
+      font-size: 20px;
+    }
+
+    #checked{
+      margin-left: 43%;
+      width: 20% !important;
+    }
+
+    h3{
+      font-size: 25px;
+    }
+
+
+
+  }
+  
+  
+  
