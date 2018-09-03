@@ -64,11 +64,11 @@ Escogimos 03 competidores directos:
 
 **Conclusiones**
 
-Se eligieron estas 03 empresas debido a que son ejemplos clave de negocios del rubro, 02 de ellos ubicados en distritos de alto tránsito y 01 de ellos en el mismo distrito que La América H&C. 
+Se eligieron estas 03 empresas debido a que son ejemplos clave de negocios del rubro, 02 de ellos ubicados en distritos de alto tránsito comercial y 01 de ellos en el mismo distrito que La América H&C. 
 
 Se descubrió que, aunque los 03 difieren en métodos de atención referente a delivery, cuentan con un público muy parecido que el de La América H&C, por lo que las modalidades, ya sean de envío o pick up son muy importantes. Asimismo, se notó que las páginas web son un gran respaldo a la imagen de las empresas, pues aquella que no contaba con web propia, tenía dificultades al mostrar sus productos y/o servicios con detalle.
 
-### 5.2. Entrevista con el cliente (conclusiones + link)
+### 5.2. Entrevista con el cliente
 #### Guía de entrevista al cliente - La América H&C**
 
 **Objetivos:**
@@ -101,7 +101,7 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 * No tienen un seguimiento al detalle de los pedidos online, los cuales se hacen a través del Facebook, debido a la falta de personal, situación que planean cambiar en el mediano plazo.
 * Los clientes que suelen pedir online son aquellos que ya han visitado previamente el local, por lo que el servicio de delivery se convierte en una oportunidad de fidelización muy importante.
 
-### 5.3. Entrevista con usuarios (conclusiones + link)
+### 5.3. Entrevista con usuarios
 #### Guía de entrevista - La América H&C**
 
 **Objetivos:**
@@ -133,16 +133,31 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 [Link a audios de entrevistas con usuario]()
 
 **Conclusiones**
-* 
+
+¿Cómo son y qué desean los usuarios?
+* Son usuarios que cuentan con poco tiempo libre pues trabajan todo el día, por lo que la llegar a casa prefieren ahorrar tiempo pidiendo un delivery mientras aprovechan el tiempo de envío en ocio o en hacer otras labores.
+* Suelen hacer deporte en pocas cantidades, sin embargo, les gusta cuidar de su salud buscando algunas opciones más fáciles o rápidas que se adapten a su estilo de vida.
+* Valoran la calidad de los productos, por lo que no tiene problema en esperar por el envío o el despacho de productos mientras estos "valgan la espera".
+* Suelen buscar promociones en los pedidos de delivery online además de comparar imágenes o precios.
+* Suelen confiar en un delivery de comida luego de haber probado previamente sus productos en tienda.
+* Busca rapidez en los procesos de pago online pero también quiere estar protegido de posibles fallas o robo de información.
 
 ## 6. Definición del público objetivo
-### 6.1. User persona
 
-Luego del proceso de investigación pudimos elaborar el User Persona que nos servirá para plantear a detalle los contenidos y flujos del prototipo.
+### 6.1. Mapa de afinidad
+Para sintetizar la información de las entrevistas y observación en campo que realizamos, vaciamos toda la información en un mapa de afinidad y buscamos patrones que se repitan.
+
+![Afinity map](La-America/img/afinity-map1.JPG)
+
+[Link Afinity Map al detalle](https://drive.google.com/drive/folders/16K4RDnUavXlz8KhF37Q4izEigBgKlDJg?usp=sharing)
+
+### 6.2. User persona
+
+Luego del proceso de investigación y con los resultados obtenidos en el mapa de afinidad pudimos elaborar el User Persona que nos servirá para plantear a detalle los contenidos y flujos del prototipo.
 
 ![User persona](La-America/img/User-persona.png)
 
-### 6.2. Customer journey map
+### 6.3. Customer journey map
 * Actual
 ![cjm actual](https://user-images.githubusercontent.com/34355830/44951726-93236100-ae31-11e8-9ace-e43cf4dff246.jpg)
 
@@ -152,19 +167,63 @@ Luego del proceso de investigación pudimos elaborar el User Persona que nos ser
 [Link customer journey map](https://drive.google.com/drive/folders/17vYzO1SsgIuF4Dm9eyz2--yUb_p6Mkmp?usp=sharing)
 
 ## 7. Testing con usuarios
+
+Testeamos las propuestas de sketch y prototipo en alta fidelidad con usuarios frecuentes de servicios para validar y recoger sus opiniones.
+
+![User testing](La-America/img/user-testing.jpg)
+
 ### 7.1 Conclusiones
-* Especificar el horario de atención.
-* En la parte superior se debe mostrar el nombre de usuario.
-* Centrar la posicion del método del pago.
+Conclusiones de testing con sketch:
+* Se le hizo sencillo ingresar al menú de selección.
+* Supo cómo agregar y quitar un ítem.
+* No encuentra el horario de atención especificado.
+* Encuentra irrelevante el buscador.
+* No entiende a qué se refiere con "tiempo estimado".
+* No entiende las opciones del sidebar; no son descriptivas.
+
+Soluciones:
+* Se implentará el horario de atención en la parte inferior.
+* Se quitará el buscador y se incrementará ligeramente el tamaño del carrito y menú.
+* Se quitará "tiempo estimado" de las opciones de pedido y se colocará al final, luego de finalizar la compra.
+* Se plantearán textos más descriptivos en las opciones del sidebar.
+
+Conclusiones de testing con prototipo de alta fidelidad:
+* Pudo ingresar sin problemas a la sección de pedido.
+* Pudo identificar cómo funciona la barra deslizable de opciones (hamburguesas, salchipapas, etc.).
+* Pudo agregar items a su pedido.
+* Le confunde el método de pedido; no sabe a donde ir después de agregar un ítem.
+* No ubica el carrito de compras con facilidad.
+* Le preocupa no saber a qué zonas llega el delivery.
+* No puede leer bien las letras de los botones call to action.
+
+Soluciones:
+* Se colocará un botón flotante que enlazará con el carrito de compras directamente y también se agrandará el tamaño del icono del carrito.
+* Se colocará la información de la zona de reparto en el footer del home.
+* Se incrementará el tamaño de letra y mejorará el contraste de los botones.
 
 ## 8. Propuesta final
-### 8.1. Flujo / árbol de contenidos
-* User Flow
 
+Nuestra propuesta de valor es crear una plataforma donde los usuarios puedan visibilizar los productos que La América H&C a través de categorías que puedan facilitar al usuario encontrar lo que está buscando fácilmente. 
+
+Asimismo, el cliente, al ser una empresa que busca fidelizar y darse a conocer con usuarios nuevos, necesita también que en la plataforma se observe la descripción de su empresa y sus productos. Por eso, se plantea agregar una sección de "Nuestras recetas" en el home para que los usuarios puedan conocer con qué ingredientes y cómo están hechos los productos que ofrecen.
+
+
+
+### 8.1. Flujo / árbol de contenidos
+
+* User Flow
+Primer planteamiento de User Flow que se realizó tras el primer acercamiento con el cliente. 
 ![user flow](https://user-images.githubusercontent.com/34355830/44951750-57d56200-ae32-11e8-95f8-85ee54b7bd6c.jpg)
 
-### 8.2. Prototipo navegable
+Tras las entrevistas con usuarios y conocer sus necesidades, se creo un segundo flujo de usuario y árbol de contenidos.
 
-## 9. Conclusiones
+![Árbol de contenidos](La-America/img/Mapa-contenidos.png)
 
-## 10. Enlaces
+### 8.2. Prototipo final navegable
+
+[Link a prototipo en Adobe XD - versión mobile](https://xd.adobe.com/view/088dd361-b02e-44b2-7c63-74d7caaca4de-7ebc/?fullscreen)
+[Link a prototipo en Adobe XD - versión desktop]()
+
+## 9. Proyecto en Drive
+
+[Link a proyecto en Google Drive](https://drive.google.com/drive/folders/1JW1e15XYr1ctluaSLhnEBGaMz2QVn9PW?usp=sharing)
