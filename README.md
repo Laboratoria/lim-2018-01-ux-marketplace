@@ -60,6 +60,7 @@ Escogimos 03 competidores directos:
 **Raw Café Club:** Es un restaurante/cafetería ubicado en Miraflores. Cuenta con página web pero no con carrito de compras. Su delivery es a través de las redes sociales o por teléfono. Su horario de funcionamiento es de 9:00a.m. a 10:00p.m.
 
 ![benchmarking cuadro](La-America/img/table-benchmarking.jpg)
+
 [Diapositivas con benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
 
 **Conclusiones**
@@ -207,8 +208,6 @@ Nuestra propuesta de valor es crear una plataforma donde los usuarios puedan vis
 
 Asimismo, el cliente, al ser una empresa que busca fidelizar y darse a conocer con usuarios nuevos, necesita también que en la plataforma se observe la descripción de su empresa y sus productos. Por eso, se plantea agregar una sección de "Nuestras recetas" en el home para que los usuarios puedan conocer con qué ingredientes y cómo están hechos los productos que ofrecen.
 
-
-
 ### 8.1. Flujo / árbol de contenidos
 
 * User Flow
@@ -222,6 +221,7 @@ Tras las entrevistas con usuarios y conocer sus necesidades, se creo un segundo 
 ### 8.2. Prototipo final navegable
 
 [Link a prototipo en Adobe XD - versión mobile](https://xd.adobe.com/view/088dd361-b02e-44b2-7c63-74d7caaca4de-7ebc/?fullscreen)
+
 [Link a prototipo en Adobe XD - versión desktop]()
 
 ## 9. Proyecto en Drive
