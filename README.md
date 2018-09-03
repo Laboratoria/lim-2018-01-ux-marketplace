@@ -227,3 +227,7 @@ Tras las entrevistas con usuarios y conocer sus necesidades, se creo un segundo 
 ## 9. Proyecto en Drive
 
 [Link a proyecto en Google Drive](https://drive.google.com/drive/folders/1JW1e15XYr1ctluaSLhnEBGaMz2QVn9PW?usp=sharing)
+
+## 10. Video en Loom
+
+[Link a video en Loom](https://www.useloom.com/share/a9f5745b337049ba88b94a63603f0d2f)
