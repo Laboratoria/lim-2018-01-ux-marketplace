@@ -20,7 +20,7 @@ La empresa ofrece a sus consumidores como principal producto una variedad de ham
 **Público objetivo**
 Su público objetivo son personas residentes de Lince entre 21 a 35 años, quienes suelen ser trabajadores dependientes con horarios de oficina y con pocas opciones para comer comida saludable durante el día. A esto se debe su horario de 5:30 p.m. a 11:00 p.m.
 
-![about](img/about-america.png "La América")
+![about](about-america.png "La América")
 
 ## 3. Objetivos del proyecto
 
@@ -59,10 +59,11 @@ Escogimos 03 competidores directos:
 
 **Raw Café Club:** Es un restaurante/cafetería ubicado en Miraflores. Cuenta con página web pero no con carrito de compras. Su delivery es a través de las redes sociales o por teléfono. Su horario de funcionamiento es de 9:00a.m. a 10:00p.m.
 
-![benchmarking cuadro](https://user-images.githubusercontent.com/34355830/44951792-8a338f00-ae33-11e8-989e-b468f2611e03.png)
-[Drive benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
+![benchmarking cuadro](table-benchmarking.jpg)
+[Diapositivas con benchmarking](https://docs.google.com/presentation/d/1OxdFs8M69WDc_QeCTY03Izjy0lEriNldGmM5K0hnhnE/edit?usp=sharing)
 
 **Conclusiones**
+
 Se eligieron estas 03 empresas debido a que son ejemplos clave de negocios del rubro, 02 de ellos ubicados en distritos de alto tránsito y 01 de ellos en el mismo distrito que La América H&C. 
 
 Se descubrió que, aunque los 03 difieren en métodos de atención referente a delivery, cuentan con un público muy parecido que el de La América H&C, por lo que las modalidades, ya sean de envío o pick up son muy importantes. Asimismo, se notó que las páginas web son un gran respaldo a la imagen de las empresas, pues aquella que no contaba con web propia, tenía dificultades al mostrar sus productos y/o servicios con detalle.
@@ -129,7 +130,8 @@ Muchas gracias por el tiempo que nos brindará durante la entrevista.
 * ¿Qué es lo que menos te gusta?
 * Para finalizar, ¿Usted qué cree qué caracteriza un servicio de delivery exitoso?
 
-[Link a audios de entrevistas con usuario] ()
+[Link a audios de entrevistas con usuario]()
+
 **Conclusiones**
 * 
 
