@@ -17,6 +17,10 @@ a las manos de nosotros, los consumidores.
 The Coffee Road es una cafetería especializada ubicada en San Isidro. Con su slogan "Discover Explore, Enjoy", The Coffee Road busca generar toda una experiencia con los consumidores, siempre teniendo como principio la enseñanza de la cultura del café, los métodos y procesos de prepación que no siempre es muy conocido por el público masivo.
 Actualmente The Coffee Road se dedica a la venta de cafés preparados con distintos métodos, postres, salados, cafés en bolsa y accesorios.
 
+### Presentación del demo
+* En este video creado en la plataforma Loom, explicamos en resumen del proceso de investigación e implementación de este documento..
+![UP](https://crisescobar.files.wordpress.com/2018/09/loom.png)
+
 
 ## Objetivos y presupuesto
 **Objetivos generales y objetivos del producto:**
@@ -153,14 +157,54 @@ Como último paso de nuestro proceso de investigación, juntamos toda la informa
 ### Solución/producto
 Finalmente, con la información obtenida en nuestro proceso de investigación, pasamos a implementar la validación de la solución. Para ello realizamos funcionalidades y contenidos  que responden a los objetivos principales del proyecto.
 
-Ante ello creamos la página web de The Coffee Road con un diseño minimalista acorde con los colores de la marca.
+Ante ello creamos la página web de The Coffee Road con un diseño dirigido al público objetivo, minimalista y acorde con los colores de la marca. En cuanto a funcionalidad, decidimos implementar las siguientes soluciones:
+
+* Para empezar, nuestro objetivo está orientado a crear una tienda online, por lo tanto decidimos incluir el ícono de carrito de compras en la pantalla principal para que el usuario tenga conocimiento de que la página es un market place. Asimismo, a primera vista se encuentra los productos que se ofrecen así como un botón que dice "Ir a la tienda"
+* Decidimos implementar las secciones de "Conoce nuestro proceso de elaboración del café" y "Averigua que café va conmigo" con el fin de guiar y enseñar al usuario con información complementaria, ya que en varios casos el usuario puede desconocer de estos procesos. Asimismo, va ligado directamente con la filosofía de The Coffee Road que es enseñar la cultura del café. 
+* Incluimos también un gráfico de "¿Cómo comprar online?" porque obervamos que en algunos casos el usuario se pierde al momento de realizar la compra, asimismo lo enumeramos por paso.
+* En la tienda decidimos colocar una breve descripción de cada grupo de productos, para que sea entendible para el usuario, asimismo incluimos íconos que representan el título de los artículos.
+* Colocamos las especificaciones del café, asi como notas de cata y notas de producción, algo muy requerido por los clientes cuando realizan una compra. Todo fue muy especificado en respuesta a que los usuarios les gusta la mayor información sobre un producto.
+* Implementas gráficos para representar algunos métodos de preparación del café, en respuesta a una usuaria que indicó que los gráficos le ayudan mucho a la identificación de ciertos aspectos de un producto.
+* Colocamos sugerencias de productos en respuesta a 2 usuarios que indicaron que era relevante este espacio para ver otras opciones de compra.
+* Un elemento inportante, fue la colocación de "¿Por qué esta información es importante?" en la elección del método de preparado del café, ya que observamos que muchos usuarios preguntaban por más información y detalles acerca de cada uno.
+* Implementamos también la elección de entrega en la tienda o por delivery, tal como indicaron como preferencia todos los usuarios, asimismo la posibilidad de comprar online a través de una tarjeta de crédito o débito.
+* Siguiendo con el proceso, implementamos un último paso al proceso de compra que es confirmar el pedido, ya que en algunos ocasiones los usuarios no estaban seguros si su pedido había sido completado.
+* Finalmente, decidimos colocar información de contacto importante, ya que un par de usuarios nos indicaron que era importante tener un contacto con la empresa por si sucede algún incoveniente con el pedido. 
 
 ### Prototipo de baja fidelidad
+Como siguiente paso, empezamos a implantar la solución en nuestros prototipos de baja fidelidad: 
+* [Prototipos de baja fidelidad](https://drive.google.com/drive/folders/1Xqg2eFYh_eiElR7j1gBxQ4haLWCgnOVN?usp=sharing)
+
 ### Prototipo de alta fidelidad
+Luego de hacer unas pequeñas iteraciones, proseguimos a realizar los prototipos en Marvel, los cuales testeamos con nuestros usuarios finales.
+* [Prototipos de alta fidelidad Mobile](https://marvelapp.com/ea6ha1j)
+* [Hands Off Mobile](https://marvelapp.com/ea6ha1j/screen/47129525/handoff)
+* [Userflow Mobile](https://userflows.marvelapp.com/ea6ha1j)
+
+* [Prototipos de alta fidelidad Desktop](https://marvelapp.com/3cgc6f5)
+* [Hands Off Desktop](https://marvelapp.com/3cgc6f5/screen/47286166/handoff)
+* [Userflow  Desktop](https://userflows.marvelapp.com/3cgc6f5)
+
 ### Testing
-### Video
-Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+Finalmente realizamos las sesiones de testing con 7 usuarios en total. Entre ellos estaban personas con conocimientos de la cultura del café, clientes de la cafetería y usuarios que no tenían mucho conocimiento del sector.
+En líneas generales, obtuvimos bastante feedback para iterar nuestros prototipos, los principales recaían en el tema de contenido como algunos términos que no eran muy entendidos, sin embargo en cuanto al flujo de compra obtuvimos buen feedback de los usuarios que nos dijeron que el proceso de compra era bastante fluido, entendible  y sencillo. 
+
+Algunas tareas que les dimos al usuario para realizar fueron las siguientes:
+1. Ingresar a la tienda
+2. Comprar un café Villa Rica que sea molido y de 1 kg
+3. Elegir método de envío delivery
+4. Pagar con tarjeta visa
+5. Continuar con el proceso de compra
+
+Con lo observado pudimos realizar ciertas iteraciones. Algunas de ellas fueron las siguientes:
+* Cambiar el término "origenes" (correctamente dicho en referencia a los tipos de cafés), por simplemente cafés.
+* Colocar una descripción de los productos en la página principal, ya que algunos usuarios por ejemplo no entendían lo que era "métodos"
+* Crear una información adicional mediante un link  sobre la definición métodos que se utilizan para la elaboración del café, ya que algunos usuarios se saltaban esa parte
+* Cambiar un poco el tono de voz del contenido, ya que en la cafetería atendienden a los usuarios con un tono bastante cercano y amigable.
+* Especificar el tiempo de entrega del producto.
+
+![UP](https://crisescobar.files.wordpress.com/2018/09/40595666_1921629944799067_8594101792608878592_n.jpg)
+
 
 
 
