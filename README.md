@@ -15,11 +15,11 @@ a las manos de nosotros, los consumidores.
 ![Logo](https://crisescobar.files.wordpress.com/2018/09/1460157_251873644963711_1568073368_n.jpg)
 
 The Coffee Road es una cafetería especializada ubicada en San Isidro. Con su slogan "Discover Explore, Enjoy", The Coffee Road busca generar toda una experiencia con los consumidores, siempre teniendo como principio la enseñanza de la cultura del café, los métodos y procesos de prepación que no siempre es muy conocido por el público masivo.
+Actualmente The Coffee Road se dedica a la venta de cafés preparados con distintos métodos, postres, salados, cafés en bolsa y accesorios.
 
-The Coffee Road cuenta con 4 años en el mercado. actualmente con una pagina de facebook
 
 ## Objetivos y presupuesto
-* Objetivos generales y objetivos del producto:
+**Objetivos generales y objetivos del producto:**
 
 - Crear un market place desde donde los consumidores compren los productos de The Coffee Road.
 - Investigar y recopilar información del cliente y los usuarios para la creación de un producto que cumpla con los principales lineamientos de funcionalidad y diseño dirigido al usuario.
@@ -32,7 +32,6 @@ Para realizar este proyecto tuvimos que utilizar una serie de herramientas que i
 |:----|:---|:---:|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | Es importante el benchmark para poder analizar los competidores; tomar los casos de éxito como ejemplo y ver otros que no han tenido éxito para analizarlos como oportunidades de mejora.|
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|Hablar con el cliente es fundamental para poder entender sus necesidades y requerimientos. Si en caso lo omitiéramos, podríamos estar creando algo que no va de acuerdo a los lineamientos de la empresa y por lo tanto sería un producto en vano. |
-
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | Debemos analizar el pensamiento y comportamiento del usuario con respecto a nuestro producto con el fin de  generar la mejor experiencia posible. Los usuarios en este caso son el punto clave para la creación del producto.|
 |Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | Esta herramienta nos ayuda a entender como es el proceso del usuario en la elección de un producto asi como las preferencias del producto. |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | Se pueden observar algunos problemas en el flujo para así luego realizar las iteraciones y/o mejorarlas. |
@@ -111,18 +110,18 @@ Elaboramos un user persona con los insights y datos de nuestros entrevistados, e
 En el CJM elaboramos una primera probabilidad y uno segundo real con la información recolectada de los usuarios.
 * En **verde** están los gains points y en **rojo** los pain points.  
 
-![Imagen 1][1]  ![Imagen 2][2] 
+![Imagen 4][4]  ![Imagen 5][5] 
 
- [1]: https://crisescobar.files.wordpress.com/2018/09/cjm.png
- [2]: https://crisescobar.files.wordpress.com/2018/09/cjm-final.png
+ [4]: https://crisescobar.files.wordpress.com/2018/09/cjm.png
+ [5]: https://crisescobar.files.wordpress.com/2018/09/cjm-final.png
 
 ### Affinity map
 
-![UR](https://crisescobar.files.wordpress.com/2018/09/img_7447.jpg)
+![UR](https://crisescobar.files.wordpress.com/2018/09/img_7447-e1535934585538.jpg)
 
 Como último paso de nuestro proceso de investigación, juntamos toda la información y los insights en un mapa de afinidad, en el obtuvimos algunas conclusiones y matchs:
 
-* Diseño, implementación y producto
+#### Diseño, implementación y producto
 - Orden y claridad de la información
 - Utilizar gráficos para las opciones de compra
 - Fotos reales, con calidad y profesionales del producto
@@ -131,23 +130,21 @@ Como último paso de nuestro proceso de investigación, juntamos toda la informa
 - Especificar bien el producto y  sus detalles 
 - Mostrar el proceso de elaboración del cafe 
 
-* Dispositivos
+#### Dispositivos
 - Desktop: seguridad y comodidad, facilita el guardado de  contraseñas. 
 - Celular: poder comprar desde cualquier parte
 
 
-* Envío y pago
+#### Envío y pago
 - Es importante ener un correo o teléfono para consultas, o por inbox en caso de dudas  por la compra
 - Delivery es la principal opción de los usuarios, siguiendo por recojo en tienda.
 - Problemas por retrasos del pedido, la mayoría se le atribuye a los intermediarios.
-
-* Proceso de compra
-- Tener claridad con los pasos del proceso de compra
-
-* Medio de pago
 - Los usuarios prefieren pagar con tarjetas de débito o credito. 
 
-* Motivaciones
+#### Proceso de compra
+- Tener claridad con los pasos del proceso de compra
+
+#### Motivaciones
 - Delivery RÁPIDO sin intermediarios 
 - Comodidad de comprar el producto donde sea 
 - Exclusividad del producto 
