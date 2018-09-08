@@ -22,7 +22,7 @@ Siempre queriendo mejorar para sus clientes el Sr. Roos decidió llamarnos para 
 
 Primero decidimos que herramientas íbamos a utilizar para este proyecto y cuanto tiempo aproximado nos tomariamos por cada una.
 
-Link Herramientas: -----
+[Link Herramientas](https://docs.google.com/document/d/16bN92VAGcYa7AZz-ySAykiTd0qeskzfyXMH8UkT8WqI/edit?usp=sharing)
 
 Ya con un plan en mente iniciamos investigando sobre el contexto y sobre la competencia (Benchmark) del Sr. Roos, también nos enfocamos en cual era el proceso de pedido de delivery a través de una web en otros países para poder ver otras alternativas y así dar una mejor solución.
 
@@ -30,13 +30,13 @@ Link Benchamark: -------
 
 Con esa información creamos nuestras preguntas para la entrevista con el cliente y con los usuarios.
 
-Link Preguntas Entrevistas: ---------
-Link Entrevista Cliente: -----------
-Link Entrevistas Usuarios: ---------------
+[Link Preguntas Entrevistas](https://docs.google.com/document/d/1tAKZwQn2LpYb85DT-_AlFOSU1Rr_023LNiLKVg6EaZU/edit?usp=sharing)
+[Link Entrevista Cliente](https://drive.google.com/file/d/1AVlIYiObJdXOWspjZ4O4UU5wj7j6DAmK/view?usp=sharing)
+[Link Entrevista Usuarios](https://drive.google.com/file/d/1AVlIYiObJdXOWspjZ4O4UU5wj7j6DAmK/view?usp=sharing)
 
 Todo eso nos ayudo a crear un user persona y un costumer journey map para recopilar esas ideas y comentarios que nos habían dado los usuarios
 
-Link User Persona: ----------------
+[Link User Persona](https://docs.google.com/document/d/1Pd0ZnzpdvRze1C6tpa2nJc3MndyQUJdkE7jmBV6yvZ0/edit?usp=sharing)
 Link Costumer Journey Map: --------------
 
 Esto nos ayudo a poder encontrar el problema, el cual para el cliente como para el usuario era muy similar
@@ -44,13 +44,13 @@ como ya lo habíamos mencionado la falta de espacio en el Sr. Roos hace que siem
 
 Entonces creamos nuestros sketchs en papel
 
-Link de Sketch: -----------------------------------------
+[Link de Sketch](https://drive.google.com/drive/folders/1OMW4OQmDC2Lgkpq_0cdG-QvvqVC2H4lc?usp=sharing)
 
 Testeamos con usuarios y creamos un nuevo prototipo pero ya en figma y con interactividad
 
-Link Figma 1: ---------------------------------
+[Link Figma 1](https://www.figma.com/file/o1LRy8ZEvhY1kGpY5ShZuG/MARKETPLACE-FISRT)
 
 Despues de los testeos de ese prototipos hicimos unos cambios y terminamos en este segundo y final prototipo
 
-Link Figma 2: ----------------------------------
+[Link Figma 2](https://www.figma.com/file/Nu79gt8Z71uo4ivwRfUdKeNc/MARKETPLACE-FINAL)
 
