@@ -1,11 +1,67 @@
-* *{
-    font-family: 'Anton', sans-serif;
-     
-  }
-  body{
-    min-height: 100vh;
-  }
-.map {
-    height:250px;
-     
-  }
+{
+  font-family: 'Exo 2', sans-serif;
+  font-size: 14px;
+}
+body{
+  min-height: 100vh;
+}
+.logo {
+font-family: 'Exo', sans-serif;
+}
+h4{
+font-family: 'Raleway', sans-serif;
+}
+.slides{
+
+margin-bottom: 0px;
+margin-top: 7px;
+}
+.parallax-container{
+margin-top: 0;
+}
+.navbar{
+height: 100px;
+
+}
+.sectionCarta , .sectionServices{
+margin-right: 0px;
+}
+
+.row{
+margin-bottom: 0px;
+margin-right:  0px;
+}
+.title{
+text-align: center;
+margin-top: 7px;
+}
+
+.platos{
+margin-top: 0px;
+}
+.mensage{
+margin-top: 10px;
+}
+
+.imgM{
+height: 200px;
+width: 200px;
+}
+
+/* @media max-width
+} */
+
+.checkbox{
+border-style: solid 3px #000000;
+
+}
+
+/* header, main, footer {
+padding-left: 300px;
+}
+*/
+@media only screen and (max-width : 600px) {
+body{
+  font-size-adjust: inherit;
+}
+}
