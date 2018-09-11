@@ -63,3 +63,5 @@ Como resultado quedó el siguiente prototipo en alta fidelidad.
 
 [Link Figma 2](https://www.figma.com/file/Nu79gt8Z71uo4ivwRfUdKeNc/MARKETPLACE-FINAL)
 
+
+[Video Loom](https://www.useloom.com/share/60715a477ba944fc9ae4787a2c52a853)
